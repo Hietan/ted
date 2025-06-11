@@ -1,0 +1,9 @@
+[project]
+name = "ted"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "pydot>=4.0.0",
+    "zss>=1.2.0",
+]
